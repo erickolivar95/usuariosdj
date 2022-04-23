@@ -1,0 +1,3 @@
+#Este archivo se creó para que cuando subamos este proyecto a github, que los archivos que tengamos aqui en este archivo de .gitignore github no los considere para subirse en nuestro repositorio de github, por lo tanto todos los archivos que pongamos aqui no se subirán a github cuando subamos nuestro proyecto, y las direcciones de los archivos para ponerlos aqui se hacen desde la ubicacion de este archivo, por eso abajo se puso usuarios/secret.json para que sea la direccion del archivo secret.json, el cual está en dentro de la carpeta usuarios a partir de la ubicacion de este archivo de .gitignore
+
+usuarios/secret.json
